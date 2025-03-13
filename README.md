@@ -26,4 +26,4 @@ This is one of my Task in My initial Learning Phase .The goal is to apply variou
 
 
 ## 👨‍💻 Connect With Me  
-[LinkedIn](www.linkedin.com/in/babajimudhiraj) | [GitHub](https://github.com/Babaji-B)  
+[LinkedIn](www.linkedin.com/in/babajimudhiraj)
